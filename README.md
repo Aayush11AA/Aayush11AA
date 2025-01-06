@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Aayush Subedi and I'm a Front-End Developer, from Nepal</p>
 
 ###
 
