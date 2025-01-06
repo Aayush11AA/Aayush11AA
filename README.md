@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aayush Subedi and I'm a Front-End Developer, from Nepal</p>
+<p align="left">My name is Aayush Subedi and I'm a Front-End Developer, from Nepal.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ... React<br>🎯 Goals: ... is to be Good Fullstack developer<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently learning ... React<br>🎯 Goals: ... is to be Good Full-stack developer</p>
 
 ###
 
@@ -40,6 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
 ###
